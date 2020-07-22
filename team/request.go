@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/opsgenie/opsgenie-go-sdk-v2/client"
-	"github.com/opsgenie/opsgenie-go-sdk-v2/og"
+	"github.com/rohit-h/opsgenie-go-sdk-v2/client"
+	"github.com/rohit-h/opsgenie-go-sdk-v2/og"
 )
 
 type Identifier uint32

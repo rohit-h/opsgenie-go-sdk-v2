@@ -2,7 +2,7 @@ package schedule
 
 import (
 	"context"
-	"github.com/opsgenie/opsgenie-go-sdk-v2/client"
+	"github.com/rohit-h/opsgenie-go-sdk-v2/client"
 	"os"
 )
 

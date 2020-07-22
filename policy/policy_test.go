@@ -1,8 +1,8 @@
 package policy
 
 import (
-	"github.com/opsgenie/opsgenie-go-sdk-v2/alert"
-	"github.com/opsgenie/opsgenie-go-sdk-v2/og"
+	"github.com/rohit-h/opsgenie-go-sdk-v2/alert"
+	"github.com/rohit-h/opsgenie-go-sdk-v2/og"
 	"github.com/pkg/errors"
 	"github.com/stretchr/testify/assert"
 	"testing"
